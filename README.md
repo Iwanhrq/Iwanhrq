@@ -1,8 +1,8 @@
 ## Olá, eu sou o Ivan! 👋
 
-🎓 Atualmente estou no último ano de Desenvolvimento de Sistemas na ETEC de Hortolândia
-⚛️ Estudando React.js e aprofundando meus conhecimentos em JavaScript e TypeScript
-🛠️ Experiência com: HTML, CSS, JavaScript, React, Node.js, MySQL, Git/GitHub
+🎓 Atualmente estou no último ano de Desenvolvimento de Sistemas na ETEC de Hortolândia<br>
+⚛️ Estudando React.js e aprofundando meus conhecimentos em JavaScript e TypeScript<br>
+🛠️ Experiência com: HTML, CSS, JavaScript, React, Node.js, MySQL, Git/GitHub<br>
 🚀 Em constante aprendizado e sempre buscando novos desafios!
 
 <div style="display: inline_block"><br>
