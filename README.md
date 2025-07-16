@@ -1,10 +1,18 @@
 ## Olá, eu sou o Ivan Henrique! 👋
 
-🎓 Atualmente estou no último ano de Desenvolvimento de Sistemas na ETEC de Hortolândia<br>
-⚛️ Estudando React.js e aprofundando meus conhecimentos em JavaScript e TypeScript<br>
-🛠️ Experiência com: HTML, CSS, JavaScript, React, Node.js, MySQL, Git/GitHub<br>
-🚀 Em constante aprendizado e sempre buscando novos desafios!
+ ##
+  Estou no último ano do curso de Desenvolvimento de Sistemas na ETEC de Hortolândia. Atualmente, estou estudando React, com foco no aprofundamento de conhecimentos em JavaScript e TypeScript para desenvolvimento web moderno e escalável.
+ ##
 
+## 🧑‍💻 Sobre mim
+- 🎓 Estudante do último ano de **Desenvolvimento de Sistemas** na ETEC de Hortolândia
+- 🥉 **3º lugar nacional** no *Desafio dos Dados 2024*, representando o estado de São Paulo    
+- ⚛️ Estudando **React.js**, com foco em interfaces modernas e responsivas  
+- 🚀 Participação em projetos práticos, como **TCC**, desafios de dados e aplicações web  
+- 💼 Interesse em **desenvolvimento web**, tecnologia educacional e projetos de impacto social  
+
+   ##
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
