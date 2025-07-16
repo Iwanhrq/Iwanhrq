@@ -1,4 +1,4 @@
-##👋 Olá, eu sou o Ivan Henrique!
+## 👋 Olá, eu sou o Ivan Henrique!
 
 Sou estudante do último ano do curso de **Desenvolvimento de Sistemas** na ETEC de Hortolândia.  
 Atualmente, estou focado no estudo de **React**, aprofundando meus conhecimentos em **JavaScript** e **TypeScript** para o desenvolvimento de aplicações web modernas, escaláveis e com foco em boas práticas.
