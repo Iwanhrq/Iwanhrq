@@ -1,11 +1,11 @@
-## 👋 Olá, eu sou o Ivan Henrique!
+<h2>👋 Olá, eu sou o Ivan Henrique!</h2>
 
 Sou estudante do último ano do curso de **Desenvolvimento de Sistemas** na ETEC de Hortolândia.  
 Atualmente, estou focado no estudo de **React**, aprofundando meus conhecimentos em **JavaScript** e **TypeScript** para o desenvolvimento de aplicações web modernas, escaláveis e com foco em boas práticas.
 
----
+###
 
-## 🧑‍💻 Sobre mim
+<h2>🧑‍💻 Sobre mim</h2>
 
 - 🎓 Estudante do último ano de **Desenvolvimento de Sistemas** na ETEC de Hortolândia  
 - 🥉 **3º lugar nacional** no *Desafio dos Dados 2024*, representando o estado de São Paulo  
@@ -13,9 +13,9 @@ Atualmente, estou focado no estudo de **React**, aprofundando meus conhecimentos
 - 🚀 Participação em projetos práticos como **TCC**, desafios de dados e aplicações web  
 - 💼 Interesse em **desenvolvimento web**, tecnologia educacional e projetos de impacto social  
 
----
+###
 
-## 🛠️ Tecnologias que uso
+<h2>🛠️ Tecnologias que uso</h2>
 
 <div style="display: inline_block">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,9 +26,9 @@ Atualmente, estou focado no estudo de **React**, aprofundando meus conhecimentos
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
----
+###
 
-## 🌐 Conecte-se comigo
+<h2>🌐 Conecte-se comigo</h2>
 
 <div>
   <a href="https://www.linkedin.com/in/ivan-ferreira-400126299/" target="_blank">
@@ -45,9 +45,9 @@ Atualmente, estou focado no estudo de **React**, aprofundando meus conhecimentos
   </a>
 </div>
 
----
+###
 
-## 🐍 Atividade no GitHub
+<h2>🐍 Atividade no GitHub</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iwanhrq/Iwanhrq/output/pacman-contribution-graph-dark.svg">
