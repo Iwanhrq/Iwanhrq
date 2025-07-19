@@ -3,7 +3,9 @@
 Sou estudante do último ano do curso de **Desenvolvimento de Sistemas** na ETEC de Hortolândia.  
 Atualmente, estou focado no estudo de **React**, aprofundando meus conhecimentos em **JavaScript** e **TypeScript** para o desenvolvimento de aplicações web modernas, escaláveis e com foco em boas práticas.
 
+
 ###
+
 
 <h2>🧑‍💻 Sobre mim</h2>
 
@@ -13,7 +15,9 @@ Atualmente, estou focado no estudo de **React**, aprofundando meus conhecimentos
 - 🚀 Participação em projetos práticos como **TCC**, desafios de dados e aplicações web  
 - 💼 Interesse em **desenvolvimento web**, tecnologia educacional e projetos de impacto social  
 
+
 ###
+
 
 <h2>🛠️ Tecnologias que uso</h2>
 
@@ -26,7 +30,9 @@ Atualmente, estou focado no estudo de **React**, aprofundando meus conhecimentos
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+
 ###
+
 
 <h2>🌐 Conecte-se comigo</h2>
 
@@ -45,7 +51,9 @@ Atualmente, estou focado no estudo de **React**, aprofundando meus conhecimentos
   </a>
 </div>
 
+
 ###
+
 
 <h2>🐍 Atividade no GitHub</h2>
 
