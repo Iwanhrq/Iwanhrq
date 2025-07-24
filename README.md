@@ -12,7 +12,6 @@ Atualmente, estou focado no estudo de **React**, aprofundando meus conhecimentos
 - 🚀 Participação em projetos práticos como **TCC**, desafios de dados e aplicações web  
 - 💼 Interesse em **desenvolvimento web**, tecnologia educacional e projetos de impacto social  
 <br>
-<br>
 <h2>🛠️ Tecnologias que uso</h2>
 
 <div style="display: inline_block">
