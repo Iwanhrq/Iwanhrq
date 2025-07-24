@@ -12,9 +12,9 @@ Atualmente, estou focado no estudo de **React**, aprofundando meus conhecimentos
 - ⚛️ Estudando **React.js**, com foco em interfaces modernas e responsivas  
 - 🚀 Participação em projetos práticos como **TCC**, desafios de dados e aplicações web  
 - 💼 Interesse em **desenvolvimento web**, tecnologia educacional e projetos de impacto social  
-
+<br>
 ###
-
+<br>
 <h2>🛠️ Tecnologias que uso</h2>
 
 <div style="display: inline_block">
@@ -25,9 +25,9 @@ Atualmente, estou focado no estudo de **React**, aprofundando meus conhecimentos
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-
+<br>
 ###
-
+<br>
 <h2>🌐 Conecte-se comigo</h2>
 
 <div>
@@ -44,9 +44,9 @@ Atualmente, estou focado no estudo de **React**, aprofundando meus conhecimentos
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
 </div>
-
+<br>
 ###
-
+<br>
 <h2>🐍 Atividade no GitHub</h2>
 
 <picture>
