@@ -12,7 +12,7 @@ Atualmente, estou focado no estudo de **React**, aprofundando meus conhecimentos
 - 🚀 Participação em projetos práticos como **TCC**, desafios de dados e aplicações web  
 - 💼 Interesse em **desenvolvimento web**, tecnologia educacional e projetos de impacto social  
 <br>
-###
+<br>
 <h2>🛠️ Tecnologias que uso</h2>
 
 <div style="display: inline_block">
@@ -24,7 +24,7 @@ Atualmente, estou focado no estudo de **React**, aprofundando meus conhecimentos
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 <br>
-###
+<br>
 <h2>🌐 Conecte-se comigo</h2>
 
 <div>
@@ -42,7 +42,7 @@ Atualmente, estou focado no estudo de **React**, aprofundando meus conhecimentos
   </a>
 </div>
 <br>
-###
+<br>
 <h2>🐍 Atividade no GitHub</h2>
 
 <picture>
