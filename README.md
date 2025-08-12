@@ -4,6 +4,7 @@ Sou estudante do último ano do curso de **Desenvolvimento de Sistemas** na ETEC
 Atualmente, estou focado no estudo de **React**, aprofundando meus conhecimentos em **JavaScript** e **TypeScript** para o desenvolvimento de aplicações web modernas, escaláveis e com foco em boas práticas.
 
 
+
 <h2>🧑‍💻 Sobre mim</h2>
 
 - 🎓 Estudante do último ano de **Desenvolvimento de Sistemas** na ETEC de Hortolândia  
@@ -13,9 +14,10 @@ Atualmente, estou focado no estudo de **React**, aprofundando meus conhecimentos
 - 💼 Interesse em **desenvolvimento web**, tecnologia educacional e projetos de impacto social  
 
 
+
 <h2>🛠️ Tecnologias que uso</h2>
 
-<div style="display: inline_block">
+<div style="display: inline_block; margin-top: 20px;">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -25,9 +27,10 @@ Atualmente, estou focado no estudo de **React**, aprofundando meus conhecimentos
 </div>
 
 
+
 <h2>🌐 Conecte-se comigo</h2>
 
-<div>
+<div style="margin-top: 20px;">
   <a href="https://www.linkedin.com/in/ivan-ferreira-400126299/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -35,6 +38,7 @@ Atualmente, estou focado no estudo de **React**, aprofundando meus conhecimentos
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
 </div>
+
 
 
 <h2>🐍 Atividade no GitHub</h2>
