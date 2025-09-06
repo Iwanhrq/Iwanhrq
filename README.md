@@ -57,6 +57,4 @@ Tenho me dedicado ao desenvolvimento de projetos acadêmicos, como o TCC, e tamb
   </a>
 </div>
 
-<br>
-
 ✨ Sempre aprendendo, sempre codando!
