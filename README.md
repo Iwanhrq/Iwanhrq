@@ -18,7 +18,7 @@ Olá! Sou estudante do último ano do curso de Desenvolvimento de Sistemas na ET
   <br/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iwanhrq&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="45%"/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=Iwanhrq&limit=5&theme=dark&combine_all_yearly_contributions=true" width="45%"/>
 
 </div>
+
 
