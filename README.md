@@ -28,6 +28,8 @@ Olá! Sou estudante do último ano do curso de Desenvolvimento de Sistemas na ET
 
 #
 
+![Iwanhrq's Stats](https://github-readme-stats.vercel.app/api?username=Iwanhrq&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
 <!--
 <h2>🌐 Conecte-se comigo</h2>
 
