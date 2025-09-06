@@ -8,8 +8,9 @@ Olá! Sou estudante do último ano do curso de **Desenvolvimento de Sistemas** n
 Tenho me dedicado ao desenvolvimento de projetos acadêmicos, como o TCC, e também em projetos extraescolares.  
 💡 **Apaixonado por tecnologia e inovação**, gosto de criar soluções que transformam ideias em softwares funcionais e úteis.
 
-<div style="margin-top:40px"></div>
+<p>&nbsp;</p>
 ## 💻 Tecnologias & Ferramentas
+
 
 ### Linguagens
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
