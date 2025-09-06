@@ -4,14 +4,6 @@ Olá! Sou estudante do último ano do curso de **Desenvolvimento de Sistemas** n
 Tenho me dedicado ao desenvolvimento de projetos acadêmicos, como o TCC, e também em projetos extraescolares.  
 💡 **Apaixonado por tecnologia e inovação**, gosto de criar soluções que transformam ideias em softwares funcionais e úteis.
 
----
-
-## 🌐 Contatos
-📫 [LinkedIn](https://linkedin.com/in/ivanhrq)  
-✉️ [Email](mailto:ivanhrqe@gmail.com)  
-
----
-
 ## 💻 Tecnologias & Ferramentas
 
 ### Linguagens
@@ -43,8 +35,6 @@ Tenho me dedicado ao desenvolvimento de projetos acadêmicos, como o TCC, e tamb
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
----
-
 ## 📊 GitHub Status
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Iwanhrq&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="45%"/>
@@ -53,6 +43,8 @@ Tenho me dedicado ao desenvolvimento de projetos acadêmicos, como o TCC, e tamb
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iwanhrq&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="45%"/>
 </div>
 
----
+## 🌐 Contatos
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ✨ Sempre aprendendo, sempre codando!  
