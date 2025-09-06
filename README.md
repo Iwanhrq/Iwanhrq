@@ -1,16 +1,18 @@
-<h2>👋 Olá, eu sou o Ivan Henrique!</h2>
+# Ivan Henrique
 
-Sou estudante do último ano do curso de **Desenvolvimento de Sistemas** na ETEC de Hortolândia.  
-Atualmente, estou focado no estudo de **React**, aprofundando meus conhecimentos em **JavaScript** e **TypeScript** para o desenvolvimento de aplicações web modernas, escaláveis e com foco em boas práticas.
+Sou estudante do último ano do curso de **Desenvolvimento de Sistemas** na ETEC de Hortolândia. Atualmente, tenho focado no desenvolvimento de projetos escolares e 
+
+Olá! Sou estudante do último ano do curso de Desenvolvimento de Sistemas na ETEC de Hortolândia. Tenho me dedicado ao desenvolvimento de projetos acadêmicos, como o TCC, e também em projetos extraescolares. Gosto de criar soluções tecnológicas que transformam ideias em softwares!
+
 <br>
 <br>
 <h2>🧑‍💻 Sobre mim</h2>
 
 - 🎓 Estudante do último ano de **Desenvolvimento de Sistemas** na ETEC de Hortolândia  
 - 🥉 **3º lugar nacional** no *Desafio dos Dados 2024*, representando o estado de São Paulo  
-- ⚛️ Estudando **React.js**, com foco em interfaces modernas e responsivas  
 - 🚀 Participação em projetos práticos como **TCC**, desafios de dados e aplicações web  
 - 💼 Interesse em **desenvolvimento web**, tecnologia educacional e projetos de impacto social  
+
 <br>
 <h2>🛠️ Tecnologias que uso</h2>
 
