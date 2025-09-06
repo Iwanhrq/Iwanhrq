@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/cb5e85c5-c47b-4d65-9e61-f919712599d1" />
+</div>
+
 # Ivan Henrique
 
 Sou estudante do último ano do curso de **Desenvolvimento de Sistemas** na ETEC de Hortolândia. Atualmente, tenho focado no desenvolvimento de projetos escolares e 
@@ -19,7 +24,7 @@ Olá! Sou estudante do último ano do curso de Desenvolvimento de Sistemas na ET
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 
-<br>
+#
 
 <!--
 <h2>🌐 Conecte-se comigo</h2>
