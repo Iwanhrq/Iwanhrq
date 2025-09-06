@@ -24,6 +24,8 @@ Olá! Sou estudante do último ano do curso de Desenvolvimento de Sistemas na ET
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 
+<br>
+
 #
 
 <!--
