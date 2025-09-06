@@ -4,13 +4,9 @@ Olá! Sou estudante do último ano do curso de **Desenvolvimento de Sistemas** n
 Tenho me dedicado ao desenvolvimento de projetos acadêmicos, como o TCC, e também em projetos extraescolares.  
 Gosto de criar soluções tecnológicas que transformam ideias em softwares!
 
----
-
 ## 🌐 Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivanhrq) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ivanhrqe@gmail.com)
-
----
 
 ## 💻 Linguagens e Ferramentas
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -34,8 +30,6 @@ Gosto de criar soluções tecnológicas que transformam ideias em softwares!
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-
----
 
 ## 📊 GitHub Status
 <div align="center">
