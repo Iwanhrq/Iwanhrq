@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/90004cb0-91f7-4d0b-a274-b0bd61b68f2e" alt="Banner" width="800"/>
+  <img src="https://github.com/user-attachments/assets/90004cb0-91f7-4d0b-a274-b0bd61b68f2e" alt="Banner"/>
 </div>
 
 # 💫 Ivan Henrique
