@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/90004cb0-91f7-4d0b-a274-b0bd61b68f2e" alt="Banner" width="800"/>
+</div>
+
 # 💫 Ivan Henrique
 
 Olá! Sou estudante do último ano do curso de **Desenvolvimento de Sistemas** na ETEC de Hortolândia.  
@@ -50,5 +54,15 @@ Tenho me dedicado ao desenvolvimento de projetos acadêmicos, como o TCC, e tamb
 <br>
 
 ## 🌐 Contatos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanhrq/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanhrqe@gmail.com)
+<div align="center">
+  <a href="https://www.linkedin.com/in/ivanhrq/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ivanhrqe@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+✨ Sempre aprendendo, sempre codando!
