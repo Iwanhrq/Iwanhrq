@@ -1,18 +1,9 @@
 # Ivan Henrique
 
 Sou estudante do último ano do curso de **Desenvolvimento de Sistemas** na ETEC de Hortolândia. Atualmente, tenho focado no desenvolvimento de projetos escolares e 
-
 Olá! Sou estudante do último ano do curso de Desenvolvimento de Sistemas na ETEC de Hortolândia. Tenho me dedicado ao desenvolvimento de projetos acadêmicos, como o TCC, e também em projetos extraescolares. Gosto de criar soluções tecnológicas que transformam ideias em softwares!
 
-<br>
-<h2>🧑‍💻 Sobre mim</h2>
-
-- 🎓 Estudante do último ano de **Desenvolvimento de Sistemas** na ETEC de Hortolândia  
-- 🥉 **3º lugar nacional** no *Desafio dos Dados 2024*, representando o estado de São Paulo  
-- 🚀 Participação em projetos práticos como **TCC**, desafios de dados e aplicações web  
-- 💼 Interesse em **desenvolvimento web**, tecnologia educacional e projetos de impacto social  
-
-<br>
+---
 
 ### 🧰 Linguagens e Ferramentas
 
@@ -30,6 +21,7 @@ Olá! Sou estudante do último ano do curso de Desenvolvimento de Sistemas na ET
 
 <br>
 
+<!--
 <h2>🌐 Conecte-se comigo</h2>
 
 <div>
@@ -41,10 +33,4 @@ Olá! Sou estudante do último ano do curso de Desenvolvimento de Sistemas na ET
   </a>
 </div>
 <br>
-<h2>🐍 Atividade no GitHub</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iwanhrq/Iwanhrq/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Iwanhrq/Iwanhrq/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Iwanhrq/Iwanhrq/output/pacman-contribution-graph.svg">
-</picture>
+-->
