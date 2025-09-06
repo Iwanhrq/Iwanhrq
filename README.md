@@ -28,7 +28,9 @@ Olá! Sou estudante do último ano do curso de Desenvolvimento de Sistemas na ET
 
 #
 
-![Iwanhrq's Stats](https://github-readme-stats.vercel.app/api?username=Iwanhrq&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Iwanhrq's Stats](https://github-readme-stats.vercel.app/api?username=Iwanhrq&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+![Iwanhrq's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iwanhrq&theme=gotham&hide_border=true)
+![Iwanhrq's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iwanhrq&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 <h2>🌐 Conecte-se comigo</h2>
