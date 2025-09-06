@@ -1,10 +1,8 @@
 # 💫 Ivan Henrique
 
-<p align="center">
 Olá! Sou estudante do último ano do curso de <b>Desenvolvimento de Sistemas</b> na ETEC de Hortolândia.<br>
 Tenho me dedicado ao desenvolvimento de projetos acadêmicos, como o TCC, e também em projetos extraescolares.<br>
 Gosto de criar soluções tecnológicas que transformam ideias em softwares!
-</p>
 
 ---
 
