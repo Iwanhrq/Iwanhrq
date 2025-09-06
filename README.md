@@ -8,6 +8,11 @@ Olá! Sou estudante do último ano do curso de **Desenvolvimento de Sistemas** n
 Tenho me dedicado ao desenvolvimento de projetos acadêmicos, como o TCC, e também em projetos extraescolares.  
 💡 **Apaixonado por tecnologia e inovação**, gosto de criar soluções que transformam ideias em softwares funcionais e úteis.
 
+
+
+
+
+
 ## 💻 Tecnologias & Ferramentas
 
 ### Linguagens
