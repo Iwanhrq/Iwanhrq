@@ -2,11 +2,28 @@
   <img src="https://github.com/user-attachments/assets/90004cb0-91f7-4d0b-a274-b0bd61b68f2e" alt="Banner"/>
 </div>
 
-# 💫 Ivan Henrique
+#  Ivan Henrique
 
 Olá! Sou estudante do último ano do curso de **Desenvolvimento de Sistemas** na ETEC de Hortolândia.  
 Tenho me dedicado ao desenvolvimento de projetos acadêmicos, como o TCC, e também em projetos extraescolares.  
 💡 **Apaixonado por tecnologia e inovação**, gosto de criar soluções que transformam ideias em softwares funcionais e úteis.
+
+---
+
+## 🏆 Conquistas e Projetos  
+
+### 🚀 Vivo Conecta – Desafio dos Dados (2024)  
+- Projeto desenvolvido pelo meu grupo **Error 504** no **Desafio dos Dados**, promovido pela **Fundação Telefônica Vivo**.  
+- Ficamos em **3º lugar nacionalmente**, apresentando uma solução tecnológica com foco em inovação e impacto social.  
+
+---
+
+### 🧠 Neuro27 – TCC (2025)  
+- **Trabalho de Conclusão de Curso** em desenvolvimento junto à minha colega **Mariana**.  
+- Aplicativo educacional que explica como **neurotransmissores e partes do cérebro influenciam nas emoções humanas**.  
+- Ficamos em **3º lugar na categoria _Escola Amiga_** em uma feira científica, a Expotec promovida pela ETEC de Leme. 
+
+---
 
 ## 💻 Tecnologias & Ferramentas
 
