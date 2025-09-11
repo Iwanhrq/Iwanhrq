@@ -13,7 +13,7 @@ Tenho me dedicado ao desenvolvimento de projetos acadêmicos, como o TCC, e tamb
 ## 🏆 Conquistas e Projetos  
 
 ### 🚀 Vivo Conecta – Desafio dos Dados (2024)  
-> Projeto desenvolvido pelo meu grupo **Error 504** no **Desafio dos Dados**, promovido pela **Fundação Telefônica Vivo**.  
+> Projeto desenvolvido por mim e meu grupo **Error 504** no **Desafio dos Dados**, promovido pela **Fundação Telefônica Vivo**.  
 > Ficamos em 🥉**3º lugar nacionalmente**, apresentando uma solução tecnológica com foco em inovação e impacto social.  
 
 ---
