@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/90004cb0-91f7-4d0b-a274-b0bd61b68f2e" alt="Banner"/>
 </div>
 
-#  Ivan Henrique
+# 👨‍💻 Ivan Henrique
 
 Olá! Sou estudante do último ano do curso de **Desenvolvimento de Sistemas** na ETEC de Hortolândia.  
 Tenho me dedicado ao desenvolvimento de projetos acadêmicos, como o TCC, e também em projetos extraescolares.  
