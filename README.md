@@ -13,15 +13,15 @@ Tenho me dedicado ao desenvolvimento de projetos acadêmicos, como o TCC, e tamb
 ## 🏆 Conquistas e Projetos  
 
 ### 🚀 Vivo Conecta – Desafio dos Dados (2024)  
-- Projeto desenvolvido pelo meu grupo **Error 504** no **Desafio dos Dados**, promovido pela **Fundação Telefônica Vivo**.  
-- Ficamos em **3º lugar nacionalmente**, apresentando uma solução tecnológica com foco em inovação e impacto social.  
+> Projeto desenvolvido pelo meu grupo **Error 504** no **Desafio dos Dados**, promovido pela **Fundação Telefônica Vivo**.  
+> Ficamos em **3º lugar nacionalmente**, apresentando uma solução tecnológica com foco em inovação e impacto social.  
 
 ---
 
 ### 🧠 Neuro27 – TCC (2025)  
-- **Trabalho de Conclusão de Curso** em desenvolvimento junto à minha colega **Mariana**.  
-- Aplicativo educacional que explica como **neurotransmissores e partes do cérebro influenciam nas emoções humanas**.  
-- Ficamos em **3º lugar na categoria _Escola Amiga_** em uma feira científica, a Expotec promovida pela ETEC de Leme. 
+> **Trabalho de Conclusão de Curso** em desenvolvimento junto à minha colega **Mariana**.  
+> Aplicativo educacional que explica como **neurotransmissores e partes do cérebro influenciam nas emoções humanas**.  
+> Ficamos em **3º lugar na categoria _Escola Amiga_** na feira científica **Expotec**, promovida pela **ETEC de Leme**.  
 
 ---
 
