@@ -12,15 +12,15 @@ Tenho me dedicado ao desenvolvimento de projetos acadêmicos, como o TCC, e tamb
 
 ## 🏆 Conquistas e Projetos  
 
-### 🚀 Vivo Conecta – Desafio dos Dados (2024)  
-> Projeto desenvolvido por mim e meu grupo **Error 504** no **Desafio dos Dados**, promovido pela **Fundação Telefônica Vivo**.  
-> Ficamos em 🥉**3º lugar nacionalmente**, apresentando uma solução tecnológica com foco em inovação e impacto social.  
-
----
-
 ### 🌐 Vion – Desafio dos Dados (2025)
 > Nossa equipe Error 504 conquistou o 🥈2º lugar nacional no Desafio dos Dados com o protótipo Vion.
 > A solução permite diagnosticar redes domésticas de forma inteligente, oferecendo mais praticidade e segurança para os usuários.
+
+---
+
+### 🚀 Vivo Conecta – Desafio dos Dados (2024)  
+> Projeto desenvolvido por mim e meu grupo **Error 504** no **Desafio dos Dados**, promovido pela **Fundação Telefônica Vivo**.  
+> Ficamos em 🥉**3º lugar nacionalmente**, apresentando uma solução tecnológica com foco em inovação e impacto social.  
 
 ---
 
